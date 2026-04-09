@@ -1,4 +1,4 @@
-class studentRecord;
+class StudentRecord:
     pass
 student1 = StudentRecord()
 
